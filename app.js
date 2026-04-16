@@ -2,6 +2,7 @@
 // runs optimize/rerank/units locally in the browser.
 (function () {
   const STORE_ORDER = ["westside", "morton", "hmart"];
+  const FORM_PREFILL_URL = "https://docs.google.com/forms/d/e/1FAIpQLSfsDPsCk8SRuMr3bDCRIhsX2Ji0s0IpDgAzqkCXyJxGGHl9kQ/viewform?usp=pp_url&entry.522783924=ITEM_PLACEHOLDER";
   const list = [];
   let mode = "per_item";
   let unitSystem = "imperial";
@@ -54,8 +55,19 @@
     const selected = window.GroceryMap.selected();
     if (selected.length === 0) { setStatus("Select at least one store on the map first."); return; }
     if (!catalog || !catalog.items[q]) {
-      setStatus(`"${q}" is not in the catalog. Add it to items.json and re-run the scraper.`);
-      $("search-results").innerHTML = "";
+      setStatus("");
+      $("search-results").innerHTML = `
+        <div class="store-results" style="border-color:#e65100;">
+          <h4>"${q}" is not in the catalog yet</h4>
+          <p style="font-size:13px;color:#666;margin:4px 0 10px;">
+            Click below to request it. It'll be available after the next scrape (within 6 hours).
+          </p>
+          <a href="${FORM_PREFILL_URL.replace("ITEM_PLACEHOLDER", encodeURIComponent(q))}"
+             target="_blank" rel="noopener"
+             style="display:inline-block;padding:8px 14px;background:#e65100;color:white;border-radius:6px;text-decoration:none;font-size:14px;">
+            Request "${q}"
+          </a>
+        </div>`;
       return;
     }
     setStatus("");

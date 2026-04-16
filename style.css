@@ -1,0 +1,143 @@
+* { box-sizing: border-box; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 24px;
+  color: #1a1a1a;
+  background: #f7f7f5;
+}
+header h1 { margin: 0 0 4px; font-size: 26px; }
+header .sub { margin: 0 0 24px; color: #666; font-size: 14px; }
+main { display: grid; gap: 28px; }
+section { background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+section h2 { margin: 0 0 6px; font-size: 18px; }
+.hint { margin: 0 0 12px; color: #666; font-size: 13px; }
+
+#map { height: 320px; border-radius: 8px; }
+#store-legend {
+  margin-top: 10px;
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  font-size: 13px;
+}
+#store-legend .chip {
+  padding: 4px 10px;
+  border-radius: 20px;
+  background: #eee;
+  cursor: pointer;
+}
+#store-legend .chip.on { background: #2e7d32; color: white; }
+
+.unit-toggle {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+.unit-toggle .label { color: #666; margin-right: 4px; }
+.unit-toggle button {
+  padding: 4px 10px;
+  font-size: 12px;
+  border: 1px solid #ccc;
+  background: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.unit-toggle button.active { background: #1976d2; color: white; border-color: #1976d2; }
+
+.product-row .pper {
+  color: #2e7d32;
+  font-size: 11px;
+  margin-right: 8px;
+  min-width: 70px;
+  text-align: right;
+}
+
+.search-row { display: flex; gap: 8px; margin-bottom: 12px; }
+.search-row input[type=text] { flex: 1; }
+.search-row input[type=number] { width: 60px; }
+.search-row input, .search-row button {
+  padding: 8px 12px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background: white;
+}
+.search-row button { background: #1976d2; color: white; border: none; cursor: pointer; }
+.search-row button:hover { background: #1565c0; }
+
+#search-status { font-size: 13px; color: #666; margin-bottom: 8px; min-height: 18px; }
+
+#search-results { display: grid; gap: 12px; margin-bottom: 16px; }
+.store-results {
+  border: 1px solid #eee;
+  border-radius: 6px;
+  padding: 10px;
+}
+.store-results h4 { margin: 0 0 8px; font-size: 14px; }
+.product-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 4px 0;
+  font-size: 13px;
+  border-bottom: 1px solid #f3f3f3;
+}
+.product-row:last-child { border: none; }
+.product-row .pname { flex: 1; }
+.product-row .psize { color: #777; margin: 0 8px; font-size: 12px; }
+.product-row .pprice { font-weight: 600; margin-right: 8px; min-width: 60px; text-align: right; }
+.product-row button {
+  padding: 2px 8px;
+  font-size: 12px;
+  border: 1px solid #ccc;
+  background: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.product-row button:hover { background: #f0f0f0; }
+
+#list-table { width: 100%; border-collapse: collapse; margin-top: 8px; }
+#list-table th, #list-table td {
+  text-align: left;
+  padding: 8px 6px;
+  border-bottom: 1px solid #eee;
+  font-size: 13px;
+}
+#list-table th { color: #666; font-weight: 500; }
+#list-table td.price { text-align: right; }
+#list-table td.missing { color: #bbb; text-align: right; }
+#list-table td.price .per-unit { color: #2e7d32; font-size: 10px; font-weight: normal; }
+#list-table td.remove button {
+  border: none;
+  background: none;
+  color: #c62828;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.mode-toggle { display: flex; gap: 8px; margin-bottom: 14px; }
+.mode-toggle button {
+  padding: 8px 14px;
+  border: 1px solid #ccc;
+  background: white;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 13px;
+}
+.mode-toggle button.active { background: #1976d2; color: white; border-color: #1976d2; }
+
+#results .plan {
+  border: 1px solid #eee;
+  border-radius: 6px;
+  padding: 12px;
+  margin-bottom: 10px;
+}
+#results .plan .total { font-size: 18px; font-weight: 600; margin-bottom: 8px; }
+#results .plan table { width: 100%; border-collapse: collapse; font-size: 13px; }
+#results .plan td { padding: 4px 0; border-bottom: 1px solid #f3f3f3; }
+#results .plan td.store { color: #1976d2; }
+#results .empty { color: #999; font-size: 13px; }

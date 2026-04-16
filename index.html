@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Grocery Optimizer</title>
+<link rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      crossorigin="" />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header>
+  <h1>Grocery Optimizer</h1>
+  <p class="sub">Columbia-area price comparison across Westside Market, Morton Williams, and H Mart.</p>
+  <p id="freshness" class="sub"></p>
+</header>
+
+<main>
+  <section class="map-section">
+    <h2>1. Pick stores</h2>
+    <p class="hint">Click a pin to include or exclude that store.</p>
+    <div id="map"></div>
+    <div id="store-legend"></div>
+  </section>
+
+  <section class="list-section">
+    <h2>2. Build your list</h2>
+    <div class="unit-toggle">
+      <span class="label">Units:</span>
+      <button id="unit-imperial" class="active">Imperial</button>
+      <button id="unit-metric">Metric</button>
+    </div>
+    <div class="search-row">
+      <input id="search-input" type="text" list="item-suggestions"
+             placeholder="e.g. milk, eggs, bananas" />
+      <datalist id="item-suggestions"></datalist>
+      <input id="qty-input" type="number" min="1" value="1" />
+      <button id="search-btn">Search</button>
+    </div>
+    <div id="search-status"></div>
+    <div id="search-results"></div>
+
+    <h3>Shopping list</h3>
+    <table id="list-table">
+      <thead>
+        <tr>
+          <th>Item</th><th>Qty</th>
+          <th>Westside</th><th>Morton</th><th>H Mart</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </section>
+
+  <section class="optimize-section">
+    <h2>3. Optimize</h2>
+    <div class="mode-toggle">
+      <button id="mode-per-item" class="active">Per-item cheapest</button>
+      <button id="mode-single">Single-store total</button>
+    </div>
+    <div id="results"></div>
+  </section>
+</main>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        crossorigin=""></script>
+<script src="units.js"></script>
+<script src="optimize.js"></script>
+<script src="rerank.js"></script>
+<script src="map.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

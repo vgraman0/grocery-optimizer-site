@@ -1,7 +1,7 @@
 // Static frontend — reads data/prices.json, uses localStorage for picks,
 // runs optimize/rerank/units locally in the browser.
 (function () {
-  const STORE_ORDER = ["westside", "morton", "hmart"];
+  const STORE_ORDER = ["westside", "morton", "hmart", "duane_reade"];
   const FORM_PREFILL_URL = "https://docs.google.com/forms/d/e/1FAIpQLSfsDPsCk8SRuMr3bDCRIhsX2Ji0s0IpDgAzqkCXyJxGGHl9kQ/viewform?usp=pp_url&entry.522783924=ITEM_PLACEHOLDER";
   const list = [];
   let mode = "per_item";
@@ -107,7 +107,7 @@
       reuseBtn.textContent = "Reuse these picks";
       reuseBtn.style.cssText = "margin-top:8px;padding:6px 12px;background:#2e7d32;color:white;border:none;border-radius:6px;cursor:pointer;";
       reuseBtn.onclick = () => {
-        const entry = { key: query, qty, prices: { westside: null, morton: null, hmart: null }, picks: {} };
+        const entry = { key: query, qty, prices: { westside: null, morton: null, hmart: null, duane_reade: null }, picks: {} };
         for (const [sid, p] of savedEntries) {
           entry.prices[sid] = p.price_cents;
           entry.picks[sid] = { name: p.name, size: p.size, kind: p.kind, amount_base: p.amount_base };
@@ -205,7 +205,7 @@
       const tr = document.createElement("tr");
       tr.innerHTML = `
         <td>${it.key}</td><td>${it.qty}</td>
-        ${priceCell("westside")}${priceCell("morton")}${priceCell("hmart")}
+        ${priceCell("westside")}${priceCell("morton")}${priceCell("hmart")}${priceCell("duane_reade")}
         <td class="remove"><button title="remove">✕</button></td>`;
       tr.querySelector("button").onclick = () => { list.splice(i, 1); renderList(); renderResults(); };
       tbody.appendChild(tr);

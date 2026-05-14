@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T06:41:10+00:00",
+  "generated_at": "2026-05-14T12:30:36+00:00",
   "stores": [
     {
       "id": "westside",
@@ -28,8 +28,138 @@
   ],
   "items": {
     "milk": {
-      "westside": [],
-      "morton": [],
+      "westside": [
+        {
+          "id": "items_1704-54155",
+          "name": "Organic Valley\u00ae Whole Milk",
+          "size": "32 fl oz",
+          "price_cents": 609,
+          "kind": "volume",
+          "amount_base": 946.352
+        },
+        {
+          "id": "items_1704-21008090",
+          "name": "Lactaid Protein 2% Reduced Fat Milk",
+          "size": "52 fl oz",
+          "price_cents": 839,
+          "kind": "volume",
+          "amount_base": 1537.822
+        },
+        {
+          "id": "items_1704-29074",
+          "name": "Lactaid Fat Free Milk",
+          "size": "64 fl oz",
+          "price_cents": 839,
+          "kind": "volume",
+          "amount_base": 1892.704
+        },
+        {
+          "id": "items_1704-42802",
+          "name": "Lactaid 2% Reduced Fat Milk",
+          "size": "64 fl oz",
+          "price_cents": 839,
+          "kind": "volume",
+          "amount_base": 1892.704
+        },
+        {
+          "id": "items_1704-99410",
+          "name": "Stonyfield Organic Whole Milk",
+          "size": "0.5 gal",
+          "price_cents": 1009,
+          "kind": "volume",
+          "amount_base": 1892.705
+        },
+        {
+          "id": "items_1704-16291551",
+          "name": "Lactaid 2% Reduced Fat Milk",
+          "size": "1 qt",
+          "price_cents": 449,
+          "kind": "volume",
+          "amount_base": 946.353
+        },
+        {
+          "id": "items_1704-16818832",
+          "name": "Farmland Fresh Dairies Whole Milk",
+          "size": "1 qt",
+          "price_cents": 229,
+          "kind": "volume",
+          "amount_base": 946.353
+        },
+        {
+          "id": "items_1704-90004",
+          "name": "Stonyfield Organic Reduced Fat Milk",
+          "size": "0.5 gal",
+          "price_cents": 1009,
+          "kind": "volume",
+          "amount_base": 1892.705
+        }
+      ],
+      "morton": [
+        {
+          "id": "items_28945-42825",
+          "name": "Lactaid Fat Free Milk",
+          "size": "96 fl oz",
+          "price_cents": 899,
+          "kind": "volume",
+          "amount_base": 2839.056
+        },
+        {
+          "id": "items_28945-21008090",
+          "name": "Lactaid Protein 2% Reduced Fat Milk",
+          "size": "52 fl oz",
+          "price_cents": 649,
+          "kind": "volume",
+          "amount_base": 1537.822
+        },
+        {
+          "id": "items_28945-42656",
+          "name": "Lactaid Whole Milk",
+          "size": "0.5 gal",
+          "price_cents": 649,
+          "kind": "volume",
+          "amount_base": 1892.705
+        },
+        {
+          "id": "items_28945-73514",
+          "name": "Organic Valley\u00ae 2% Reduced Fat Milk",
+          "size": "32 fl oz",
+          "price_cents": 499,
+          "kind": "volume",
+          "amount_base": 946.352
+        },
+        {
+          "id": "items_28945-20742986",
+          "name": "Bowl & Basket MILK",
+          "size": "1 qt",
+          "price_cents": 189,
+          "kind": "volume",
+          "amount_base": 946.353
+        },
+        {
+          "id": "items_28945-20743020",
+          "name": "Bowl & Basket MILK",
+          "size": "1 pt",
+          "price_cents": 99,
+          "kind": "volume",
+          "amount_base": 473.176
+        },
+        {
+          "id": "items_28945-73515",
+          "name": "Organic Valley\u00ae Whole Milk",
+          "size": "64 fl oz",
+          "price_cents": 799,
+          "kind": "volume",
+          "amount_base": 1892.704
+        },
+        {
+          "id": "items_28945-73517",
+          "name": "Organic Valley\u00ae 2% Milk",
+          "size": "64 fl oz",
+          "price_cents": 799,
+          "kind": "volume",
+          "amount_base": 1892.704
+        }
+      ],
       "hmart": [
         {
           "id": "hmart-4180",
@@ -96,146 +226,40 @@
           "amount_base": 251.96622
         }
       ],
-      "duane_reade": [
-        {
-          "id": "items_110705-20706650",
-          "name": "Bondi Sands Gradual Tanning Milk",
-          "size": "12.68 fl oz",
-          "price_cents": 2699,
-          "kind": "volume",
-          "amount_base": 374.99197999999996
-        },
-        {
-          "id": "items_110705-5630",
-          "name": "Hershey's Milk Chocolate",
-          "size": "1.55 oz",
-          "price_cents": 219,
-          "kind": "volume",
-          "amount_base": 45.838925
-        },
-        {
-          "id": "items_110705-25130403",
-          "name": "Nice! Milk Chocolate Covered Raisins",
-          "size": "6.75 oz",
-          "price_cents": 599,
-          "kind": "volume",
-          "amount_base": 199.621125
-        },
-        {
-          "id": "items_110705-23242841",
-          "name": "Walgreens Sugar Free Milk of Magnesia",
-          "size": "12 fl oz",
-          "price_cents": 779,
-          "kind": "volume",
-          "amount_base": 354.882
-        },
-        {
-          "id": "items_110705-5643",
-          "name": "M&M's Peanuts & Milk Chocolate Candies",
-          "size": "1.74 oz",
-          "price_cents": 199,
-          "kind": "volume",
-          "amount_base": 51.45789
-        },
-        {
-          "id": "items_110705-71995",
-          "name": "Horizon Organic Reduced Fat Organic Milk",
-          "size": "64 fl oz",
-          "price_cents": 549,
-          "kind": "volume",
-          "amount_base": 1892.704
-        },
-        {
-          "id": "items_110705-3146403",
-          "name": "fairlife \u00ae Chocolate 2% Ultra-Filtered Milk",
-          "size": "14 fl oz",
-          "price_cents": 289,
-          "kind": "volume",
-          "amount_base": 414.029
-        },
-        {
-          "id": "items_110705-2797036",
-          "name": "TOBLERONE Milk Chocolate with Honey & Almond Nougat",
-          "size": "3.52 oz",
-          "price_cents": 499,
-          "kind": "volume",
-          "amount_base": 104.09872
-        }
-      ]
+      "duane_reade": []
     },
     "eggs": {
-      "westside": [
-        {
-          "id": "items_1704-64560317",
-          "name": "Nellie's Free Range Large Eggs",
-          "size": "18 ct",
-          "price_cents": 1009,
-          "kind": "count",
-          "amount_base": 18.0
-        },
-        {
-          "id": "items_1704-21672430",
-          "name": "Pine Belt Quail Eggs",
-          "size": "18 ct",
-          "price_cents": 559,
-          "kind": "count",
-          "amount_base": 18.0
-        },
-        {
-          "id": "items_1704-22609785",
-          "name": "Vital Farms Pasture-Raised Medium Eggs",
-          "size": "12 ct",
-          "price_cents": 1009,
-          "kind": "count",
-          "amount_base": 12.0
-        },
-        {
-          "id": "items_1704-81055050",
-          "name": "Alderfer Eggs Organic Large Brown Eggs",
-          "size": "6 ct",
-          "price_cents": 609,
-          "kind": "count",
-          "amount_base": 6.0
-        },
-        {
-          "id": "items_1704-2723342",
-          "name": "Land O Lakes Jumbo Brown Eggs, 12 Count",
-          "size": "12 ct",
-          "price_cents": 789,
-          "kind": "count",
-          "amount_base": 12.0
-        },
-        {
-          "id": "items_1704-17541339",
-          "name": "Vital Farms Pasture-Raised Organic Eggs 6",
-          "size": "6 ct",
-          "price_cents": 819,
-          "kind": "count",
-          "amount_base": 6.0
-        },
-        {
-          "id": "items_1704-27536619",
-          "name": "Nature's Yoke Large Free-Range Brown Eggs",
-          "size": "18 ct",
-          "price_cents": 1119,
-          "kind": "count",
-          "amount_base": 18.0
-        },
-        {
-          "id": "items_1704-81057076",
-          "name": "Alderfer Eggs Large Organic Pastured Eggs",
-          "size": "1 each",
-          "price_cents": 1049,
-          "kind": "count",
-          "amount_base": 1.0
-        }
-      ],
+      "westside": [],
       "morton": [
         {
-          "id": "items_28945-29608806",
-          "name": "Pete & Gerry's Pasture Raised Eggs",
+          "id": "items_28945-17622309",
+          "name": "Wholesome Pantry Organic EGGS",
+          "size": "1 doz",
+          "price_cents": 499,
+          "kind": "unknown",
+          "amount_base": 0.0
+        },
+        {
+          "id": "items_28945-21020164",
+          "name": "Bowl & Basket EGGS",
+          "size": "6 ct",
+          "price_cents": 229,
+          "kind": "count",
+          "amount_base": 6.0
+        },
+        {
+          "id": "items_28945-21315890",
+          "name": "Bowl & Basket HARD BOILED EGGS",
+          "size": "6 ct",
+          "price_cents": 899,
+          "kind": "count",
+          "amount_base": 6.0
+        },
+        {
+          "id": "items_28945-1431716",
+          "name": "James Farm Jumbo Eggs",
           "size": "12 ct",
-          "price_cents": 999,
+          "price_cents": 379,
           "kind": "count",
           "amount_base": 12.0
         },
@@ -248,36 +272,12 @@
           "amount_base": 12.0
         },
         {
-          "id": "items_28945-1431716",
-          "name": "James Farm Jumbo Eggs",
+          "id": "items_28945-29608806",
+          "name": "Pete & Gerry's Pasture Raised Eggs",
           "size": "12 ct",
-          "price_cents": 379,
+          "price_cents": 999,
           "kind": "count",
           "amount_base": 12.0
-        },
-        {
-          "id": "items_28945-21020164",
-          "name": "Bowl & Basket EGGS",
-          "size": "6 ct",
-          "price_cents": 229,
-          "kind": "count",
-          "amount_base": 6.0
-        },
-        {
-          "id": "items_28945-17622309",
-          "name": "Wholesome Pantry Organic EGGS",
-          "size": "1 doz",
-          "price_cents": 499,
-          "kind": "unknown",
-          "amount_base": 0.0
-        },
-        {
-          "id": "items_28945-21315890",
-          "name": "Bowl & Basket HARD BOILED EGGS",
-          "size": "6 ct",
-          "price_cents": 899,
-          "kind": "count",
-          "amount_base": 6.0
         },
         {
           "id": "items_28945-19187225",
@@ -365,73 +365,73 @@
       "duane_reade": []
     },
     "bread": {
-      "westside": [
+      "westside": [],
+      "morton": [
         {
-          "id": "items_1704-284795",
-          "name": "Bread Alone Organic Peasant",
+          "id": "items_28945-2722244",
+          "name": "Pepperidge Farm 15 Grain Bread",
+          "size": "24 oz",
+          "price_cents": 499,
+          "kind": "mass",
+          "amount_base": 680.3879999999999
+        },
+        {
+          "id": "items_28945-16701670",
+          "name": "Martin's Sandwich Potato Bread",
+          "size": "18 oz",
+          "price_cents": 459,
+          "kind": "mass",
+          "amount_base": 510.291
+        },
+        {
+          "id": "items_28945-68882",
+          "name": "Pepperidge Farm White Bread",
+          "size": "16 oz",
+          "price_cents": 479,
+          "kind": "mass",
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_28945-186529",
+          "name": "Arnold Brick Oven White Bread, 20 oz",
           "size": "20 oz",
-          "price_cents": 899,
+          "price_cents": 539,
           "kind": "mass",
           "amount_base": 566.99
         },
         {
-          "id": "items_1704-284797",
-          "name": "Bread Alone Organic Whole Wheat Sourdough",
+          "id": "items_28945-18523384",
+          "name": "Pepperidge Farm Farmhouse Butter Bread",
           "size": "22 oz",
-          "price_cents": 899,
+          "price_cents": 499,
           "kind": "mass",
           "amount_base": 623.689
         },
         {
-          "id": "items_1704-3142311",
-          "name": "Teixeira's Bakery French Bread",
-          "size": "10 oz",
-          "price_cents": 279,
-          "kind": "mass",
-          "amount_base": 283.495
-        },
-        {
-          "id": "items_1704-2822169",
-          "name": "Medina State Inc Multigrain Bread",
-          "size": "18 oz",
-          "price_cents": 619,
-          "kind": "mass",
-          "amount_base": 510.291
-        },
-        {
-          "id": "items_1704-90562",
-          "name": "Arnold Country White Bread",
+          "id": "items_28945-306958",
+          "name": "Pepperidge Farm Farmhouse Sourdough Bread",
           "size": "24 oz",
-          "price_cents": 599,
+          "price_cents": 499,
           "kind": "mass",
           "amount_base": 680.3879999999999
         },
         {
-          "id": "items_1704-3063954",
-          "name": "Bon Pain French Bread",
+          "id": "items_28945-16652193",
+          "name": "Martin's Old-Fashioned, Real Butter Bread",
           "size": "18 oz",
-          "price_cents": 619,
+          "price_cents": 459,
           "kind": "mass",
           "amount_base": 510.291
         },
         {
-          "id": "items_1704-2722244",
-          "name": "Pepperidge Farm 15 Grain Bread",
-          "size": "24 oz",
-          "price_cents": 559,
+          "id": "items_28945-125629",
+          "name": "Sara Lee Butter, Bread, White Bread, 20 oz",
+          "size": "20 oz",
+          "price_cents": 449,
           "kind": "mass",
-          "amount_base": 680.3879999999999
-        },
-        {
-          "id": "items_1704-3063952",
-          "name": "Medina State 7-grain Bread",
-          "size": "16 oz",
-          "price_cents": 619,
-          "kind": "mass",
-          "amount_base": 453.592
+          "amount_base": 566.99
         }
       ],
-      "morton": [],
       "hmart": [
         {
           "id": "hmart-407",
@@ -498,41 +498,82 @@
           "amount_base": 247.77463
         }
       ],
-      "duane_reade": []
+      "duane_reade": [
+        {
+          "id": "items_110705-2670108",
+          "name": "BELVITA Soft Baked Breakfast Biscuits, Banana Bread 8.8 oz",
+          "size": "5 ct",
+          "price_cents": 899,
+          "kind": "count",
+          "amount_base": 5.0
+        },
+        {
+          "id": "items_110705-26219843",
+          "name": "Nice! Pepperoni Rising Crust Pizza",
+          "size": "28.3 oz",
+          "price_cents": 699,
+          "kind": "mass",
+          "amount_base": 802.29085
+        },
+        {
+          "id": "items_110705-26220021",
+          "name": "Nice! Three Meat Thin Crust Pizza",
+          "size": "15.5 oz",
+          "price_cents": 699,
+          "kind": "mass",
+          "amount_base": 439.41724999999997
+        },
+        {
+          "id": "items_110705-30857010",
+          "name": "Nice! Pure Honey",
+          "size": "24 oz",
+          "price_cents": 929,
+          "kind": "mass",
+          "amount_base": 680.3879999999999
+        },
+        {
+          "id": "items_110705-25029831",
+          "name": "Nice! Sesame Sticks",
+          "size": "5 oz",
+          "price_cents": 299,
+          "kind": "mass",
+          "amount_base": 141.7475
+        },
+        {
+          "id": "items_110705-23233252",
+          "name": "Nice Milk Chocolate Pretzels",
+          "size": "3.5 oz",
+          "price_cents": 299,
+          "kind": "volume",
+          "amount_base": 103.50725
+        },
+        {
+          "id": "items_110705-25853245",
+          "name": "Nice! Ground Cinnamon",
+          "size": "2.37 oz",
+          "price_cents": 199,
+          "kind": "mass",
+          "amount_base": 67.188315
+        },
+        {
+          "id": "items_110705-26220089",
+          "name": "Nice! Rising Crust Frozen Pizza",
+          "size": "28.2 oz",
+          "price_cents": 699,
+          "kind": "mass",
+          "amount_base": 799.4558999999999
+        }
+      ]
     },
     "bananas": {
       "westside": [
         {
-          "id": "items_1704-16346031",
-          "name": "Baby Banana",
-          "size": "1 each",
-          "price_cents": 88,
-          "kind": "count",
-          "amount_base": 1.0
-        },
-        {
-          "id": "items_1704-2758069",
-          "name": "WOODSTOCK Organic Slices of Banana",
-          "size": "8 oz",
-          "price_cents": 449,
-          "kind": "mass",
-          "amount_base": 226.796
-        },
-        {
-          "id": "items_1704-27514818",
-          "name": "Nightingale Banana Pudding",
-          "size": "5.3 oz",
-          "price_cents": 559,
-          "kind": "mass",
-          "amount_base": 150.25234999999998
-        },
-        {
-          "id": "items_1704-80916940",
-          "name": "MUSH Overnight Oats Banana Bread",
-          "size": "5 oz",
+          "id": "items_1704-81055773",
+          "name": "Magic Straws Chocolate & Banana",
+          "size": "4 ct",
           "price_cents": 279,
-          "kind": "mass",
-          "amount_base": 141.7475
+          "kind": "count",
+          "amount_base": 4.0
         },
         {
           "id": "items_1704-73228",
@@ -543,12 +584,20 @@
           "amount_base": 43.941725
         },
         {
-          "id": "items_1704-29324739",
-          "name": "MARIA'S HOMEMADE Maria'S Homemade Chocolate Banana Wafer Pudding",
-          "size": "10.5 oz",
-          "price_cents": 679,
+          "id": "items_1704-29330077",
+          "name": "MARIA'S HOMEMADE Maria'S Homemade Large Banana Bread",
+          "size": "16 oz",
+          "price_cents": 1119,
           "kind": "mass",
-          "amount_base": 297.66974999999996
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_1704-80919873",
+          "name": "Dole Pineapple Orange Banana Juice",
+          "size": "52 fl oz",
+          "price_cents": 619,
+          "kind": "volume",
+          "amount_base": 1537.822
         },
         {
           "id": "items_1704-81444903",
@@ -565,9 +614,90 @@
           "price_cents": 1119,
           "kind": "mass",
           "amount_base": 595.3394999999999
+        },
+        {
+          "id": "items_1704-18541146",
+          "name": "Dole Sliced Strawberries & Bananas",
+          "size": "8 oz",
+          "price_cents": 1799,
+          "kind": "mass",
+          "amount_base": 226.796
+        },
+        {
+          "id": "items_1704-80919176",
+          "name": "Sun River Farms Sliced Organic Bananas",
+          "size": "10 oz",
+          "price_cents": 619,
+          "kind": "mass",
+          "amount_base": 283.495
         }
       ],
-      "morton": [],
+      "morton": [
+        {
+          "id": "items_28945-2758069",
+          "name": "WOODSTOCK Organic Slices of Banana",
+          "size": "8 oz",
+          "price_cents": 879,
+          "kind": "mass",
+          "amount_base": 226.796
+        },
+        {
+          "id": "items_28945-365629",
+          "name": "Mavuno Harvest Organic Dried Banana",
+          "size": "2 oz",
+          "price_cents": 369,
+          "kind": "mass",
+          "amount_base": 56.699
+        },
+        {
+          "id": "items_28945-16346086",
+          "name": "Baby Banana",
+          "size": "1 per pound",
+          "price_cents": 52,
+          "kind": "unknown",
+          "amount_base": 0.0
+        },
+        {
+          "id": "items_28945-197601",
+          "name": "La Yogurt Probiotic Strawberry Banana Blended Lowfat Yogurt",
+          "size": "6 oz",
+          "price_cents": 99,
+          "kind": "mass",
+          "amount_base": 170.09699999999998
+        },
+        {
+          "id": "items_28945-80256",
+          "name": "Chobani Reduced Fat Greek Strawberry Banana on the Bottom Yogurt",
+          "size": "5.3 oz",
+          "price_cents": 125,
+          "kind": "mass",
+          "amount_base": 150.25234999999998
+        },
+        {
+          "id": "items_28945-121465",
+          "name": "Wonderful Halos Clementine Bag",
+          "size": "2 lb",
+          "price_cents": 699,
+          "kind": "mass",
+          "amount_base": 907.184
+        },
+        {
+          "id": "items_28945-3111634",
+          "name": "Avocado",
+          "size": "1 each",
+          "price_cents": 299,
+          "kind": "count",
+          "amount_base": 1.0
+        },
+        {
+          "id": "items_28945-3259496",
+          "name": "Lemon",
+          "size": "1 each",
+          "price_cents": 67,
+          "kind": "count",
+          "amount_base": 1.0
+        }
+      ],
       "hmart": [
         {
           "id": "hmart-2095",
@@ -634,15 +764,88 @@
           "amount_base": 44.79221
         }
       ],
-      "duane_reade": []
+      "duane_reade": [
+        {
+          "id": "items_110705-303358",
+          "name": "Banana Boat Soothing Aloe After Sun Gel",
+          "size": "16 fl oz",
+          "price_cents": 899,
+          "kind": "volume",
+          "amount_base": 473.176
+        },
+        {
+          "id": "items_110705-271425",
+          "name": "Banana Boat Moisturizing Aloe After Sun Lotion",
+          "size": "16 fl oz",
+          "price_cents": 999,
+          "kind": "volume",
+          "amount_base": 473.176
+        },
+        {
+          "id": "items_110705-44916",
+          "name": "Banana Boat Sport Performance SPF 30 Sunscreen",
+          "size": "6 oz",
+          "price_cents": 1399,
+          "kind": "mass",
+          "amount_base": 170.09699999999998
+        },
+        {
+          "id": "items_110705-192759",
+          "name": "Banana Boat Broad Spectrum SPF 50 Sunscreen Lotion",
+          "size": "8 fl oz",
+          "price_cents": 1399,
+          "kind": "volume",
+          "amount_base": 236.588
+        },
+        {
+          "id": "items_110705-1721142",
+          "name": "Banana Boat Dry Oil Clear Spray Sunscreen Broad Spectrum",
+          "size": "6 fl oz",
+          "price_cents": 1399,
+          "kind": "volume",
+          "amount_base": 177.441
+        },
+        {
+          "id": "items_110705-271356",
+          "name": "Banana Boat Sunscreen Spray, Clear, Broad Spectrum SPF 50",
+          "size": "6 oz",
+          "price_cents": 1499,
+          "kind": "mass",
+          "amount_base": 170.09699999999998
+        },
+        {
+          "id": "items_110705-17774874",
+          "name": "Banana Boat Ultra Sport Clear Spray Broad Spectrum Sunscreen",
+          "size": "6 oz",
+          "price_cents": 1999,
+          "kind": "mass",
+          "amount_base": 170.09699999999998
+        },
+        {
+          "id": "items_110705-271377",
+          "name": "Banana Boat Kids Max Protect & Play Sunscreen Spray, SPF 100",
+          "size": "6 oz",
+          "price_cents": 1599,
+          "kind": "mass",
+          "amount_base": 170.09699999999998
+        }
+      ]
     },
     "tomato": {
       "westside": [
         {
-          "id": "items_1704-81056081",
-          "name": "Organic Tomato Medley",
+          "id": "items_1704-64578834",
+          "name": "NatureSweet Super Sweet Tomato",
+          "size": "12 oz",
+          "price_cents": 559,
+          "kind": "mass",
+          "amount_base": 340.19399999999996
+        },
+        {
+          "id": "items_1704-16596917",
+          "name": "Orange Cherry Tomato",
           "size": "1 each",
-          "price_cents": 339,
+          "price_cents": 789,
           "kind": "count",
           "amount_base": 1.0
         },
@@ -655,28 +858,12 @@
           "amount_base": 1.0
         },
         {
-          "id": "items_1704-16631889",
-          "name": "Heirloom Tomato",
+          "id": "items_1704-81056081",
+          "name": "Organic Tomato Medley",
           "size": "1 each",
-          "price_cents": 359,
+          "price_cents": 339,
           "kind": "count",
           "amount_base": 1.0
-        },
-        {
-          "id": "items_1704-16596917",
-          "name": "Orange Cherry Tomato",
-          "size": "1 each",
-          "price_cents": 789,
-          "kind": "count",
-          "amount_base": 1.0
-        },
-        {
-          "id": "items_1704-64578834",
-          "name": "NatureSweet Super Sweet Tomato",
-          "size": "12 oz",
-          "price_cents": 559,
-          "kind": "mass",
-          "amount_base": 340.19399999999996
         },
         {
           "id": "items_1704-20336023",
@@ -687,12 +874,12 @@
           "amount_base": 750.12777
         },
         {
-          "id": "items_1704-20693063",
-          "name": "NatureSweet Super Sweet Tomato Medley",
-          "size": "10 oz",
-          "price_cents": 289,
-          "kind": "mass",
-          "amount_base": 283.495
+          "id": "items_1704-16631889",
+          "name": "Heirloom Tomato",
+          "size": "1 each",
+          "price_cents": 359,
+          "kind": "count",
+          "amount_base": 1.0
         },
         {
           "id": "items_1704-82267",
@@ -701,9 +888,82 @@
           "price_cents": 559,
           "kind": "mass",
           "amount_base": 793.786
+        },
+        {
+          "id": "items_1704-20693063",
+          "name": "NatureSweet Super Sweet Tomato Medley",
+          "size": "10 oz",
+          "price_cents": 289,
+          "kind": "mass",
+          "amount_base": 283.495
         }
       ],
-      "morton": [],
+      "morton": [
+        {
+          "id": "items_28945-19142379",
+          "name": "Greenhouse Grown Tomato",
+          "size": "1 lb",
+          "price_cents": 350,
+          "kind": "mass",
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_28945-82267",
+          "name": "SMT San Merican Tomato Diced Tomatoes",
+          "size": "28 oz",
+          "price_cents": 599,
+          "kind": "mass",
+          "amount_base": 793.786
+        },
+        {
+          "id": "items_28945-26333437",
+          "name": "Bowl & Basket GRAPE TOMATOES",
+          "size": "1 each",
+          "price_cents": 499,
+          "kind": "count",
+          "amount_base": 1.0
+        },
+        {
+          "id": "items_28945-38609",
+          "name": "Hunt's Diced Tomatoes",
+          "size": "28 oz",
+          "price_cents": 499,
+          "kind": "mass",
+          "amount_base": 793.786
+        },
+        {
+          "id": "items_28945-26335627",
+          "name": "Bowl & Basket GRAPE TOMATOES",
+          "size": "1 qt",
+          "price_cents": 699,
+          "kind": "volume",
+          "amount_base": 946.353
+        },
+        {
+          "id": "items_28945-70090",
+          "name": "Hunt's Petite Diced Tomatoes",
+          "size": "28 oz",
+          "price_cents": 499,
+          "kind": "mass",
+          "amount_base": 793.786
+        },
+        {
+          "id": "items_28945-27480133",
+          "name": "Bowl & Basket TOMATOES DICED",
+          "size": "14.5 oz",
+          "price_cents": 179,
+          "kind": "mass",
+          "amount_base": 411.06775
+        },
+        {
+          "id": "items_28945-24880",
+          "name": "San Merican Whole Peeled Tomatoes",
+          "size": "28 oz",
+          "price_cents": 599,
+          "kind": "mass",
+          "amount_base": 793.786
+        }
+      ],
       "hmart": [
         {
           "id": "hmart-8537",
@@ -810,14 +1070,6 @@
           "price_cents": 449,
           "kind": "mass",
           "amount_base": 680.3879999999999
-        },
-        {
-          "id": "items_110705-23587497",
-          "name": "Doritos Flavored Tortilla Chips, Nacho Cheese",
-          "size": "9.25 oz",
-          "price_cents": 629,
-          "kind": "mass",
-          "amount_base": 262.232875
         }
       ]
     },
@@ -832,36 +1084,20 @@
           "amount_base": 907.184
         },
         {
+          "id": "items_1704-36933",
+          "name": "Goya Thai Jasmine Rice",
+          "size": "5 lb",
+          "price_cents": 2079,
+          "kind": "mass",
+          "amount_base": 2267.96
+        },
+        {
           "id": "items_1704-76058",
           "name": "Nishiki Rice, Premium Grade",
           "size": "32 oz",
           "price_cents": 899,
           "kind": "mass",
           "amount_base": 907.184
-        },
-        {
-          "id": "items_1704-99960",
-          "name": "A Taste of Thai Jasmine Rice",
-          "size": "17.6 oz",
-          "price_cents": 679,
-          "kind": "mass",
-          "amount_base": 498.95120000000003
-        },
-        {
-          "id": "items_1704-125235",
-          "name": "Vigo Rice, Yellow, Family Size",
-          "size": "16 oz",
-          "price_cents": 449,
-          "kind": "mass",
-          "amount_base": 453.592
-        },
-        {
-          "id": "items_1704-35063",
-          "name": "Goya Extra Long Grain Enriched Rice",
-          "size": "5 lb",
-          "price_cents": 1009,
-          "kind": "mass",
-          "amount_base": 2267.96
         },
         {
           "id": "items_1704-25096641",
@@ -872,23 +1108,104 @@
           "amount_base": 240.97074999999998
         },
         {
-          "id": "items_1704-36933",
-          "name": "Goya Thai Jasmine Rice",
+          "id": "items_1704-125235",
+          "name": "Vigo Rice, Yellow, Family Size",
+          "size": "16 oz",
+          "price_cents": 449,
+          "kind": "mass",
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_1704-82719",
+          "name": "Nishiki Rice, Premium Grade",
+          "size": "7.4 oz",
+          "price_cents": 559,
+          "kind": "mass",
+          "amount_base": 209.7863
+        },
+        {
+          "id": "items_1704-99959",
+          "name": "A Taste of Thai Jasmine Rice",
+          "size": "35 oz",
+          "price_cents": 1119,
+          "kind": "mass",
+          "amount_base": 992.2325
+        },
+        {
+          "id": "items_1704-99960",
+          "name": "A Taste of Thai Jasmine Rice",
+          "size": "17.6 oz",
+          "price_cents": 679,
+          "kind": "mass",
+          "amount_base": 498.95120000000003
+        }
+      ],
+      "morton": [
+        {
+          "id": "items_28945-76763",
+          "name": "RiceSelect Jasmati Rice, Gluten Free, Non-GMO",
+          "size": "32 oz",
+          "price_cents": 1129,
+          "kind": "mass",
+          "amount_base": 907.184
+        },
+        {
+          "id": "items_28945-38147",
+          "name": "Minute Rice White Rice Cups",
+          "size": "8.8 oz",
+          "price_cents": 199,
+          "kind": "mass",
+          "amount_base": 249.47560000000001
+        },
+        {
+          "id": "items_28945-25025688",
+          "name": "Bowl & Basket PARBOILED RICE",
           "size": "5 lb",
-          "price_cents": 2079,
+          "price_cents": 699,
           "kind": "mass",
           "amount_base": 2267.96
         },
         {
-          "id": "items_1704-98661",
-          "name": "Success Boil in Bag Basmati White Rice",
-          "size": "14 oz",
-          "price_cents": 529,
+          "id": "items_28945-25409681",
+          "name": "Bowl & Basket Specialty RICE",
+          "size": "32 oz",
+          "price_cents": 539,
           "kind": "mass",
-          "amount_base": 396.893
+          "amount_base": 907.184
+        },
+        {
+          "id": "items_28945-36933",
+          "name": "Goya Thai Jasmine Rice",
+          "size": "5 lb",
+          "price_cents": 1299,
+          "kind": "mass",
+          "amount_base": 2267.96
+        },
+        {
+          "id": "items_28945-78496",
+          "name": "Goya Rice, Enriched, Medium Grain",
+          "size": "5 lb",
+          "price_cents": 899,
+          "kind": "mass",
+          "amount_base": 2267.96
+        },
+        {
+          "id": "items_28945-35063",
+          "name": "Goya Extra Long Grain Enriched Rice",
+          "size": "5 lb",
+          "price_cents": 739,
+          "kind": "mass",
+          "amount_base": 2267.96
+        },
+        {
+          "id": "items_28945-36325",
+          "name": "Success Boil-In Bag White Rice",
+          "size": "6 ct",
+          "price_cents": 539,
+          "kind": "count",
+          "amount_base": 6.0
         }
       ],
-      "morton": [],
       "hmart": [
         {
           "id": "hmart-63",
@@ -1005,26 +1322,156 @@
           "amount_base": 538.6405
         },
         {
-          "id": "items_110705-25853245",
-          "name": "Nice! Ground Cinnamon",
-          "size": "2.37 oz",
-          "price_cents": 199,
-          "kind": "mass",
-          "amount_base": 67.188315
-        },
-        {
           "id": "items_110705-25853193",
           "name": "Nice! Pure Ground Black Pepper",
           "size": "2 oz",
           "price_cents": 199,
           "kind": "mass",
           "amount_base": 56.699
+        },
+        {
+          "id": "items_110705-25853245",
+          "name": "Nice! Ground Cinnamon",
+          "size": "2.37 oz",
+          "price_cents": 199,
+          "kind": "mass",
+          "amount_base": 67.188315
         }
       ]
     },
     "chicken": {
-      "westside": [],
-      "morton": [],
+      "westside": [
+        {
+          "id": "items_1704-21178805",
+          "name": "Boar's Head Buffalo Chicken Breast",
+          "size": "per lb",
+          "price_cents": 1519,
+          "kind": "unknown",
+          "amount_base": 0.0
+        },
+        {
+          "id": "items_1704-19511200",
+          "name": "Boar's Head Chipotle Chicken Breast",
+          "size": "per lb",
+          "price_cents": 1569,
+          "kind": "unknown",
+          "amount_base": 0.0
+        },
+        {
+          "id": "items_1704-3211063",
+          "name": "Boar's Head Classic Chicken Breast",
+          "size": "lb",
+          "price_cents": 1569,
+          "kind": "unknown",
+          "amount_base": 0.0
+        },
+        {
+          "id": "items_1704-20317996",
+          "name": "BELL & EVANS Split Chicken Breast",
+          "size": "per lb",
+          "price_cents": 679,
+          "kind": "unknown",
+          "amount_base": 0.0
+        },
+        {
+          "id": "items_1704-188420",
+          "name": "Perdue Chicken Breast Strips",
+          "size": "12 oz",
+          "price_cents": 899,
+          "kind": "mass",
+          "amount_base": 340.19399999999996
+        },
+        {
+          "id": "items_1704-29332936",
+          "name": "BUTCHER SHOPPE Chicken Breast Split",
+          "size": "1 each",
+          "price_cents": 329,
+          "kind": "count",
+          "amount_base": 1.0
+        },
+        {
+          "id": "items_1704-29870385",
+          "name": "HARVESTLAND Thin Sliced Chicken Breast",
+          "size": "1 each",
+          "price_cents": 1459,
+          "kind": "count",
+          "amount_base": 1.0
+        },
+        {
+          "id": "items_1704-29333093",
+          "name": "BUTCHER SHOPPE Chicken Breast Split Bone In",
+          "size": "1 lb",
+          "price_cents": 429,
+          "kind": "mass",
+          "amount_base": 453.592
+        }
+      ],
+      "morton": [
+        {
+          "id": "items_28945-106492148",
+          "name": "Fresh Split Chicken Breast",
+          "size": "per lb",
+          "price_cents": 699,
+          "kind": "unknown",
+          "amount_base": 0.0
+        },
+        {
+          "id": "items_28945-106492621",
+          "name": "Butcher Van Mango Chicken Breast",
+          "size": "1 lb",
+          "price_cents": 799,
+          "kind": "mass",
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_28945-106492275",
+          "name": "Allens Boneless Chicken Breast",
+          "size": "1 lb",
+          "price_cents": 599,
+          "kind": "mass",
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_28945-67852",
+          "name": "Perdue Fresh Ground Chicken Breast",
+          "size": "1 lb",
+          "price_cents": 999,
+          "kind": "mass",
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_28945-188420",
+          "name": "Perdue Chicken Breast Strips",
+          "size": "12 oz",
+          "price_cents": 699,
+          "kind": "mass",
+          "amount_base": 340.19399999999996
+        },
+        {
+          "id": "items_28945-106492253",
+          "name": "Panko Chicken Breast Cutlet",
+          "size": "1 lb",
+          "price_cents": 799,
+          "kind": "mass",
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_28945-106492217",
+          "name": "Grade A Thin Sliced Chicken Breast",
+          "size": "1 lb",
+          "price_cents": 699,
+          "kind": "mass",
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_28945-106492691",
+          "name": "Ground White Chicken Breast",
+          "size": "1 lb",
+          "price_cents": 499,
+          "kind": "mass",
+          "amount_base": 453.592
+        }
+      ],
       "hmart": [],
       "duane_reade": [
         {
@@ -1044,20 +1491,12 @@
           "amount_base": 255.1455
         },
         {
-          "id": "items_110705-37653",
-          "name": "Campbell's Cream of Chicken Soup",
-          "size": "10.5 oz",
-          "price_cents": 279,
-          "kind": "volume",
-          "amount_base": 310.52175
-        },
-        {
-          "id": "items_110705-3384061",
-          "name": "Maruchan Ramen Noodle Soup, Chicken",
-          "size": "3 oz",
-          "price_cents": 79,
+          "id": "items_110705-3123872",
+          "name": "Fritos Corn Chips, The Original",
+          "size": "9.25 oz",
+          "price_cents": 589,
           "kind": "mass",
-          "amount_base": 85.04849999999999
+          "amount_base": 262.232875
         },
         {
           "id": "items_110705-37545",
@@ -1084,12 +1523,20 @@
           "amount_base": 297.66974999999996
         },
         {
-          "id": "items_110705-3123872",
-          "name": "Fritos Corn Chips, The Original",
-          "size": "9.25 oz",
-          "price_cents": 589,
+          "id": "items_110705-1532528",
+          "name": "Campbell's Chicken Noodle Soup",
+          "size": "15.4 oz",
+          "price_cents": 349,
           "kind": "mass",
-          "amount_base": 262.232875
+          "amount_base": 436.5823
+        },
+        {
+          "id": "items_110705-37653",
+          "name": "Campbell's Cream of Chicken Soup",
+          "size": "10.5 oz",
+          "price_cents": 279,
+          "kind": "volume",
+          "amount_base": 310.52175
         }
       ]
     },
@@ -1153,12 +1600,12 @@
           "amount_base": 248.058125
         },
         {
-          "id": "items_28945-26319350",
-          "name": "Bowl & Basket ONIONS",
-          "size": "5 lb",
-          "price_cents": 699,
-          "kind": "mass",
-          "amount_base": 2267.96
+          "id": "items_28945-106493276",
+          "name": "Morton Williams Diced Red Onions",
+          "size": "per lb",
+          "price_cents": 599,
+          "kind": "unknown",
+          "amount_base": 0.0
         }
       ],
       "hmart": [
@@ -1190,7 +1637,7 @@
           "id": "hmart-6861",
           "name": "Green Onion Kimchi 300g",
           "size": "300 g",
-          "price_cents": 599,
+          "price_cents": 549,
           "kind": "mass",
           "amount_base": 300.0
         },
@@ -1227,7 +1674,72 @@
           "amount_base": 300.50469999999996
         }
       ],
-      "duane_reade": []
+      "duane_reade": [
+        {
+          "id": "items_110705-16758550",
+          "name": "Pringles Sour Cream and Onion Potato Crisps, Lunch Snacks, 5.5 oz",
+          "size": "5.5 oz",
+          "price_cents": 349,
+          "kind": "volume",
+          "amount_base": 162.65425
+        },
+        {
+          "id": "items_110705-20575865",
+          "name": "Snyder's of Hanover Honey Mustard & Onion Flavored Pretzel Pieces",
+          "size": "13 oz",
+          "price_cents": 479,
+          "kind": "mass",
+          "amount_base": 368.5435
+        },
+        {
+          "id": "items_110705-3317521",
+          "name": "Pringles Sour Cream and Onion Potato Crisps Chips, Lunch Snacks, Grab N' Go, 2.5 oz",
+          "size": "2.5 oz",
+          "price_cents": 199,
+          "kind": "volume",
+          "amount_base": 73.93375
+        },
+        {
+          "id": "items_110705-23587508",
+          "name": "Ruffles Potato Chips, Sour Cream & Onion Flavored",
+          "size": "8 oz",
+          "price_cents": 599,
+          "kind": "volume",
+          "amount_base": 236.588
+        },
+        {
+          "id": "items_110705-1783242",
+          "name": "Vita Coco Coconut Oil",
+          "size": "14 fl oz",
+          "price_cents": 1199,
+          "kind": "volume",
+          "amount_base": 414.029
+        },
+        {
+          "id": "items_110705-16980550",
+          "name": "Lindsay Manzanilla Olives, Pimiento",
+          "size": "5 oz",
+          "price_cents": 399,
+          "kind": "mass",
+          "amount_base": 141.7475
+        },
+        {
+          "id": "items_110705-20650997",
+          "name": "Walgreens Extra Virgin Olive Oil",
+          "size": "16.9 oz",
+          "price_cents": 949,
+          "kind": "volume",
+          "amount_base": 499.79214999999994
+        },
+        {
+          "id": "items_110705-25853193",
+          "name": "Nice! Pure Ground Black Pepper",
+          "size": "2 oz",
+          "price_cents": 199,
+          "kind": "mass",
+          "amount_base": 56.699
+        }
+      ]
     },
     "potato": {
       "westside": [
@@ -1248,6 +1760,14 @@
           "amount_base": 1.0
         },
         {
+          "id": "items_1704-16346115",
+          "name": "Boniato White Sweet Potato",
+          "size": "1 ct",
+          "price_cents": 35,
+          "kind": "count",
+          "amount_base": 1.0
+        },
+        {
           "id": "items_1704-49055",
           "name": "Organic Russet Potato",
           "size": "1 ct",
@@ -1264,12 +1784,12 @@
           "amount_base": 1.0
         },
         {
-          "id": "items_1704-16346115",
-          "name": "Boniato White Sweet Potato",
-          "size": "1 ct",
-          "price_cents": 35,
-          "kind": "count",
-          "amount_base": 1.0
+          "id": "items_1704-23157559",
+          "name": "Sweet Potato (Yam)",
+          "size": "10.6 oz",
+          "price_cents": 929,
+          "kind": "mass",
+          "amount_base": 300.50469999999996
         },
         {
           "id": "items_1704-16614403",
@@ -1286,17 +1806,74 @@
           "price_cents": 259,
           "kind": "mass",
           "amount_base": 453.592
-        },
-        {
-          "id": "items_1704-16345695",
-          "name": "Organic Garnet Sweet Potato (Yam)",
-          "size": "1 lb",
-          "price_cents": 446,
-          "kind": "mass",
-          "amount_base": 453.592
         }
       ],
-      "morton": [],
+      "morton": [
+        {
+          "id": "items_28945-152458",
+          "name": "The Little Potato Co. Little Duos",
+          "size": "1.5 lb",
+          "price_cents": 499,
+          "kind": "mass",
+          "amount_base": 680.3879999999999
+        },
+        {
+          "id": "items_28945-16854406",
+          "name": "Organic Garnet Sweet Potato (Yam)",
+          "size": "1 lb",
+          "price_cents": 150,
+          "kind": "mass",
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_28945-28105773",
+          "name": "Bowl & Basket POTATO",
+          "size": "15 oz",
+          "price_cents": 199,
+          "kind": "mass",
+          "amount_base": 425.2425
+        },
+        {
+          "id": "items_28945-17626656",
+          "name": "Sweet Potato (Yam)",
+          "size": "1 lb",
+          "price_cents": 134,
+          "kind": "mass",
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_28945-17457146",
+          "name": "Red Potato",
+          "size": "1 lb",
+          "price_cents": 47,
+          "kind": "mass",
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_28945-27994889",
+          "name": "Bowl & Basket POTATO",
+          "size": "15 oz",
+          "price_cents": 199,
+          "kind": "mass",
+          "amount_base": 425.2425
+        },
+        {
+          "id": "items_28945-64071591",
+          "name": "The Little Potato Co. A Little Hot Honey",
+          "size": "454 g",
+          "price_cents": 599,
+          "kind": "mass",
+          "amount_base": 454.0
+        },
+        {
+          "id": "items_28945-64062129",
+          "name": "The Little Potato Co. A Little Garlic & Parmesan",
+          "size": "454 g",
+          "price_cents": 599,
+          "kind": "mass",
+          "amount_base": 454.0
+        }
+      ],
       "hmart": [
         {
           "id": "hmart-367",
@@ -1305,6 +1882,22 @@
           "price_cents": 249,
           "kind": "mass",
           "amount_base": 250.04259
+        },
+        {
+          "id": "hmart-464",
+          "name": "Potato Starch 4lb(1.81kg)",
+          "size": "4 lb",
+          "price_cents": 1099,
+          "kind": "mass",
+          "amount_base": 1814.368
+        },
+        {
+          "id": "hmart-4433",
+          "name": "Potato Sujebi 17.64oz(500g)",
+          "size": "17.64 oz",
+          "price_cents": 399,
+          "kind": "mass",
+          "amount_base": 500.08518
         },
         {
           "id": "hmart-458",
@@ -1323,22 +1916,6 @@
           "amount_base": 798.32192
         },
         {
-          "id": "hmart-4433",
-          "name": "Potato Sujebi 17.64oz(500g)",
-          "size": "17.64 oz",
-          "price_cents": 399,
-          "kind": "mass",
-          "amount_base": 500.08518
-        },
-        {
-          "id": "hmart-464",
-          "name": "Potato Starch 4lb(1.81kg)",
-          "size": "4 lb",
-          "price_cents": 1099,
-          "kind": "mass",
-          "amount_base": 1814.368
-        },
-        {
           "id": "hmart-463",
           "name": "Potato Starch 2lb(0.9kg)",
           "size": "2 lb",
@@ -1347,27 +1924,157 @@
           "amount_base": 907.184
         },
         {
-          "id": "hmart-10454",
-          "name": "Potato Starch 14.1 Oz (400g)",
-          "size": "14.1 oz",
-          "price_cents": 699,
+          "id": "hmart-2820",
+          "name": "Fresh Potato Noodle2.2lb(1kg)",
+          "size": "2.2 lb",
+          "price_cents": 399,
           "kind": "mass",
-          "amount_base": 399.72794999999996
+          "amount_base": 997.9024000000001
         },
         {
-          "id": "hmart-3238",
-          "name": "Potato Powder 28.21oz(800g)",
-          "size": "28.21 oz",
-          "price_cents": 999,
+          "id": "hmart-351",
+          "name": "Sweet Potato Vermicelli 14.1oz(400g)",
+          "size": "14.1 oz",
+          "price_cents": 799,
           "kind": "mass",
-          "amount_base": 799.739395
+          "amount_base": 399.72794999999996
         }
       ],
       "duane_reade": []
     },
     "butter": {
-      "westside": [],
-      "morton": [],
+      "westside": [
+        {
+          "id": "items_1704-99210",
+          "name": "Land O Lakes Salted Whipped Butter",
+          "size": "8 oz",
+          "price_cents": 589,
+          "kind": "mass",
+          "amount_base": 226.796
+        },
+        {
+          "id": "items_1704-79777",
+          "name": "Pr\u00e9sident Salted Butter",
+          "size": "7 oz",
+          "price_cents": 679,
+          "kind": "mass",
+          "amount_base": 198.4465
+        },
+        {
+          "id": "items_1704-3080681",
+          "name": "Vital Farms Unsalted Butter",
+          "size": "8 oz",
+          "price_cents": 789,
+          "kind": "mass",
+          "amount_base": 226.796
+        },
+        {
+          "id": "items_1704-17461248",
+          "name": "Best Yet Unsalted Butter",
+          "size": "16 oz",
+          "price_cents": 839,
+          "kind": "mass",
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_1704-56313",
+          "name": "Pr\u00e9sident Unsalted Butter",
+          "size": "7 oz",
+          "price_cents": 679,
+          "kind": "mass",
+          "amount_base": 198.4465
+        },
+        {
+          "id": "items_1704-99232",
+          "name": "Cabot Salted Butter Quarters",
+          "size": "16 oz",
+          "price_cents": 1009,
+          "kind": "mass",
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_1704-56102",
+          "name": "Organic Valley\u00ae Salted Organic Butter",
+          "size": "1 lb",
+          "price_cents": 1599,
+          "kind": "mass",
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_1704-2596222",
+          "name": "Kerrygold Grass-Fed Salted Butter Sticks",
+          "size": "8 oz",
+          "price_cents": 789,
+          "kind": "mass",
+          "amount_base": 226.796
+        }
+      ],
+      "morton": [
+        {
+          "id": "items_28945-99210",
+          "name": "Land O Lakes Salted Whipped Butter",
+          "size": "8 oz",
+          "price_cents": 499,
+          "kind": "mass",
+          "amount_base": 226.796
+        },
+        {
+          "id": "items_28945-21003357",
+          "name": "Bowl & Basket WHIPPED BUTTER",
+          "size": "8 oz",
+          "price_cents": 399,
+          "kind": "mass",
+          "amount_base": 226.796
+        },
+        {
+          "id": "items_28945-21003262",
+          "name": "Bowl & Basket BUTTER",
+          "size": "8 oz",
+          "price_cents": 399,
+          "kind": "mass",
+          "amount_base": 226.796
+        },
+        {
+          "id": "items_28945-21003344",
+          "name": "Bowl & Basket BUTTER",
+          "size": "8 oz",
+          "price_cents": 399,
+          "kind": "mass",
+          "amount_base": 226.796
+        },
+        {
+          "id": "items_28945-2721623",
+          "name": "Land O Lakes Butter, Salted",
+          "size": "1 lb",
+          "price_cents": 949,
+          "kind": "mass",
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_28945-99228",
+          "name": "Kate's 100% Pure Butter Sea Salted",
+          "size": "8 oz",
+          "price_cents": 679,
+          "kind": "mass",
+          "amount_base": 226.796
+        },
+        {
+          "id": "items_28945-16850041",
+          "name": "Land O Lakes Butter, Unsalted",
+          "size": "1 lb",
+          "price_cents": 949,
+          "kind": "mass",
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_28945-26344321",
+          "name": "Land O Lakes Butter Balls, Salted",
+          "size": "8 oz",
+          "price_cents": 649,
+          "kind": "mass",
+          "amount_base": 226.796
+        }
+      ],
       "hmart": [
         {
           "id": "hmart-12929",
@@ -1444,14 +2151,6 @@
           "amount_base": 499.79214999999994
         },
         {
-          "id": "items_110705-73051",
-          "name": "Jif Creamy Peanut Butter",
-          "size": "16 oz",
-          "price_cents": 499,
-          "kind": "mass",
-          "amount_base": 453.592
-        },
-        {
           "id": "items_110705-291681",
           "name": "Camille Rose Almond Jai Butter",
           "size": "8 oz",
@@ -1468,6 +2167,22 @@
           "amount_base": 600.34205
         },
         {
+          "id": "items_110705-43527",
+          "name": "Jif 28 Ounce Creamy Peanut Butter",
+          "size": "28 oz",
+          "price_cents": 749,
+          "kind": "mass",
+          "amount_base": 793.786
+        },
+        {
+          "id": "items_110705-20002386",
+          "name": "KIND Peanut Butter Dark Chocolate",
+          "size": "1.4 oz",
+          "price_cents": 999,
+          "kind": "mass",
+          "amount_base": 39.689299999999996
+        },
+        {
           "id": "items_110705-28405839",
           "name": "WeCool Toys Butter Cloudz",
           "size": "1 each",
@@ -1476,62 +2191,30 @@
           "amount_base": 1.0
         },
         {
-          "id": "items_110705-16411139",
-          "name": "Jif Peanut Butter Spreads",
+          "id": "items_110705-73051",
+          "name": "Jif Creamy Peanut Butter",
           "size": "16 oz",
           "price_cents": 499,
           "kind": "mass",
           "amount_base": 453.592
         },
         {
-          "id": "items_110705-285601",
-          "name": "SKIPPY Creamy Peanut Butter, 16.3 OZ",
-          "size": "16.3 oz",
-          "price_cents": 449,
+          "id": "items_110705-16411139",
+          "name": "Jif Peanut Butter Spreads",
+          "size": "16 oz",
+          "price_cents": 499,
           "kind": "mass",
-          "amount_base": 462.09685
-        },
-        {
-          "id": "items_110705-26912922",
-          "name": "Palmer's Shea Butter Formula Body Oil",
-          "size": "8.5 fl oz",
-          "price_cents": 1099,
-          "kind": "volume",
-          "amount_base": 251.37475
+          "amount_base": 453.592
         }
       ]
     },
     "cheese": {
       "westside": [
         {
-          "id": "items_1704-2821428",
-          "name": "CHEESE SHOPPE Alpine Lace Muenster",
-          "size": "per lb",
-          "price_cents": 1119,
-          "kind": "unknown",
-          "amount_base": 0.0
-        },
-        {
           "id": "items_1704-16877930",
           "name": "CHEESE SHOPPE Gouda With Fine Herbs",
           "size": "lb",
           "price_cents": 1119,
-          "kind": "unknown",
-          "amount_base": 0.0
-        },
-        {
-          "id": "items_1704-21097813",
-          "name": "CHEESE SHOPPE Ammerlander Swiss",
-          "size": "each",
-          "price_cents": 789,
-          "kind": "unknown",
-          "amount_base": 0.0
-        },
-        {
-          "id": "items_1704-3208574",
-          "name": "CHEESE SHOPPE New York  Mild Cheddar",
-          "size": "per lb",
-          "price_cents": 899,
           "kind": "unknown",
           "amount_base": 0.0
         },
@@ -1544,14 +2227,6 @@
           "amount_base": 0.0
         },
         {
-          "id": "items_1704-81057652",
-          "name": "CHEESE SHOPPE @ WSM Hickory Smoked Gouda",
-          "size": "1 each",
-          "price_cents": 899,
-          "kind": "count",
-          "amount_base": 1.0
-        },
-        {
           "id": "items_1704-18580430",
           "name": "CHEESE SHOPPE Wisconsin Extra Sharp Cheddar",
           "size": "per lb",
@@ -1560,12 +2235,44 @@
           "amount_base": 0.0
         },
         {
-          "id": "items_1704-81056378",
-          "name": "CHEESE SHOPPE @ WSM Medium Sharp Wisconsin Cheddar",
-          "size": "1 each",
-          "price_cents": 899,
-          "kind": "count",
-          "amount_base": 1.0
+          "id": "items_1704-19511443",
+          "name": "CHEESE SHOPPE Tillamook Extra Sharp Cheddar",
+          "size": "per lb",
+          "price_cents": 949,
+          "kind": "unknown",
+          "amount_base": 0.0
+        },
+        {
+          "id": "items_1704-72117",
+          "name": "Montchevre Honey Goat Cheese",
+          "size": "4 oz",
+          "price_cents": 789,
+          "kind": "mass",
+          "amount_base": 113.398
+        },
+        {
+          "id": "items_1704-29786686",
+          "name": "Cabot Gouda Cheese Block, 8 oz",
+          "size": "8 oz",
+          "price_cents": 619,
+          "kind": "mass",
+          "amount_base": 226.796
+        },
+        {
+          "id": "items_1704-17647869",
+          "name": "Krinos Halloumi Blue Cheese",
+          "size": "225 g",
+          "price_cents": 1009,
+          "kind": "mass",
+          "amount_base": 225.0
+        },
+        {
+          "id": "items_1704-3242786",
+          "name": "Montchevre Goat Cheese, Plain",
+          "size": "4 oz",
+          "price_cents": 789,
+          "kind": "mass",
+          "amount_base": 113.398
         }
       ],
       "morton": [
@@ -1578,14 +2285,6 @@
           "amount_base": 193.91057999999998
         },
         {
-          "id": "items_28945-26960603",
-          "name": "Bowl & Basket Singles White Cheese",
-          "size": "0.75 oz",
-          "price_cents": 359,
-          "kind": "mass",
-          "amount_base": 21.262124999999997
-        },
-        {
           "id": "items_28945-2691935",
           "name": "Kraft American Cheese Slices",
           "size": "24 ct",
@@ -1594,20 +2293,36 @@
           "amount_base": 24.0
         },
         {
-          "id": "items_28945-16711490",
-          "name": "Pr\u00e9sident Brie Cheese, Soft\u2011Ripened",
-          "size": "8 oz",
-          "price_cents": 1099,
-          "kind": "mass",
-          "amount_base": 226.796
+          "id": "items_28945-2600975",
+          "name": "Galbani Whole Milk Ricotta Cheese",
+          "size": "32 oz",
+          "price_cents": 499,
+          "kind": "volume",
+          "amount_base": 946.352
         },
         {
-          "id": "items_28945-25467733",
-          "name": "Land O Lakes Cheese, Medium Cheddar",
-          "size": "8 oz",
-          "price_cents": 499,
+          "id": "items_28945-26960603",
+          "name": "Bowl & Basket Singles White Cheese",
+          "size": "0.75 oz",
+          "price_cents": 359,
           "kind": "mass",
-          "amount_base": 226.796
+          "amount_base": 21.262124999999997
+        },
+        {
+          "id": "items_28945-3242786",
+          "name": "Montchevre Goat Cheese, Plain",
+          "size": "4 oz",
+          "price_cents": 699,
+          "kind": "mass",
+          "amount_base": 113.398
+        },
+        {
+          "id": "items_28945-72153",
+          "name": "Sartori Cheese, Montamore Cheddar",
+          "size": "7 oz",
+          "price_cents": 899,
+          "kind": "mass",
+          "amount_base": 198.4465
         },
         {
           "id": "items_28945-26621533",
@@ -1624,14 +2339,6 @@
           "price_cents": 599,
           "kind": "count",
           "amount_base": 16.0
-        },
-        {
-          "id": "items_28945-2648260",
-          "name": "Sartori Parmesan Classic Shaved Cheese",
-          "size": "7 oz",
-          "price_cents": 799,
-          "kind": "mass",
-          "amount_base": 198.4465
         }
       ],
       "hmart": [
@@ -1704,7 +2411,72 @@
     },
     "yogurt": {
       "westside": [],
-      "morton": [],
+      "morton": [
+        {
+          "id": "items_28945-24302586",
+          "name": "Bowl & Basket NONFAT GREEK YOGURT",
+          "size": "32 oz",
+          "price_cents": 549,
+          "kind": "mass",
+          "amount_base": 907.184
+        },
+        {
+          "id": "items_28945-24194139",
+          "name": "Bowl & Basket YOGURT",
+          "size": "6 oz",
+          "price_cents": 89,
+          "kind": "mass",
+          "amount_base": 170.09699999999998
+        },
+        {
+          "id": "items_28945-16555662",
+          "name": "Chobani Nonfat Greek Vanilla Yogurt",
+          "size": "5.3 oz",
+          "price_cents": 125,
+          "kind": "mass",
+          "amount_base": 150.25234999999998
+        },
+        {
+          "id": "items_28945-29327",
+          "name": "Chobani Nonfat Plain Greek Yogurt",
+          "size": "32 oz",
+          "price_cents": 999,
+          "kind": "mass",
+          "amount_base": 907.184
+        },
+        {
+          "id": "items_28945-18518987",
+          "name": "Chobani Greek Honey Blended Yogurt",
+          "size": "5.3 oz",
+          "price_cents": 125,
+          "kind": "mass",
+          "amount_base": 150.25234999999998
+        },
+        {
+          "id": "items_28945-32502",
+          "name": "FAGE 0%, Plain Greek Yogurt",
+          "size": "32 oz",
+          "price_cents": 1299,
+          "kind": "mass",
+          "amount_base": 907.184
+        },
+        {
+          "id": "items_28945-2757651",
+          "name": "Activia Low Fat Peach Yogurt",
+          "size": "4 oz",
+          "price_cents": 529,
+          "kind": "mass",
+          "amount_base": 113.398
+        },
+        {
+          "id": "items_28945-7260",
+          "name": "Chobani Nonfat Greek Plain Yogurt",
+          "size": "5.3 oz",
+          "price_cents": 125,
+          "kind": "mass",
+          "amount_base": 150.25234999999998
+        }
+      ],
       "hmart": [
         {
           "id": "hmart-1797",
@@ -1839,7 +2611,72 @@
       ]
     },
     "pasta": {
-      "westside": [],
+      "westside": [
+        {
+          "id": "items_1704-3219931",
+          "name": "Sfoglini Trumpets, Organic Pasta",
+          "size": "16 oz",
+          "price_cents": 819,
+          "kind": "mass",
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_1704-131594",
+          "name": "Colavita Cut Fusilli Pasta",
+          "size": "16 oz",
+          "price_cents": 399,
+          "kind": "mass",
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_1704-130398",
+          "name": "Colavita Penne Rigate Pasta",
+          "size": "16 oz",
+          "price_cents": 399,
+          "kind": "mass",
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_1704-16237873",
+          "name": "Sfoglini Organic Reginetti Pasta",
+          "size": "12 oz",
+          "price_cents": 789,
+          "kind": "mass",
+          "amount_base": 340.19399999999996
+        },
+        {
+          "id": "items_1704-3219933",
+          "name": "Sfoglini Pasta, Organic, Zucca",
+          "size": "16 oz",
+          "price_cents": 789,
+          "kind": "mass",
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_1704-278421",
+          "name": "Lean Cuisine Swedish Meatballs with Pasta",
+          "size": "9.12 oz",
+          "price_cents": 679,
+          "kind": "mass",
+          "amount_base": 258.54744
+        },
+        {
+          "id": "items_1704-3219928",
+          "name": "Sfoglini Whole Grain Reginetti, Organic Pasta",
+          "size": "12 oz",
+          "price_cents": 789,
+          "kind": "mass",
+          "amount_base": 340.19399999999996
+        },
+        {
+          "id": "items_1704-143861",
+          "name": "Ronzoni Rotini, 16 oz, Non-GMO Spiral Corkscrew Pasta",
+          "size": "1 lb",
+          "price_cents": 339,
+          "kind": "mass",
+          "amount_base": 453.592
+        }
+      ],
       "morton": [],
       "hmart": [
         {
@@ -1917,14 +2754,6 @@
           "amount_base": 442.25219999999996
         },
         {
-          "id": "items_110705-39349",
-          "name": "Prego Traditional Pasta Sauce",
-          "size": "24 oz",
-          "price_cents": 449,
-          "kind": "mass",
-          "amount_base": 680.3879999999999
-        },
-        {
           "id": "items_110705-34418",
           "name": "Classico Creamy Alfredo Pasta Sauce",
           "size": "15 oz",
@@ -1937,6 +2766,14 @@
           "name": "Classico Tomato & Basil Pasta Sauce",
           "size": "24 oz",
           "price_cents": 529,
+          "kind": "mass",
+          "amount_base": 680.3879999999999
+        },
+        {
+          "id": "items_110705-39349",
+          "name": "Prego Traditional Pasta Sauce",
+          "size": "24 oz",
+          "price_cents": 449,
           "kind": "mass",
           "amount_base": 680.3879999999999
         },
@@ -1975,7 +2812,72 @@
       ]
     },
     "kimchi": {
-      "westside": [],
+      "westside": [
+        {
+          "id": "items_1704-24599083",
+          "name": "Kimchi",
+          "size": "each",
+          "price_cents": 1459,
+          "kind": "unknown",
+          "amount_base": 0.0
+        },
+        {
+          "id": "items_1704-174620",
+          "name": "Ozuk\u00e9 Kimchi: Napa & Garlic",
+          "size": "15 oz",
+          "price_cents": 1349,
+          "kind": "mass",
+          "amount_base": 425.2425
+        },
+        {
+          "id": "items_1704-17620943",
+          "name": "Chun Ju Kimchi Kimchi",
+          "size": "14 oz",
+          "price_cents": 1569,
+          "kind": "mass",
+          "amount_base": 396.893
+        },
+        {
+          "id": "items_1704-27471801",
+          "name": "Goshen Seoul Kimchi",
+          "size": "14 oz",
+          "price_cents": 1569,
+          "kind": "mass",
+          "amount_base": 396.893
+        },
+        {
+          "id": "items_1704-19925633",
+          "name": "BING GR\u00c9 Sliced Cabbage Kimchi",
+          "size": "2 lb",
+          "price_cents": 1459,
+          "kind": "mass",
+          "amount_base": 907.184
+        },
+        {
+          "id": "items_1704-80916266",
+          "name": "Cleveland Kitchen Spicy Kimchi",
+          "size": "16 oz",
+          "price_cents": 969,
+          "kind": "mass",
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_1704-28775850",
+          "name": "JONGGA Kimchi Original",
+          "size": "10.6 oz",
+          "price_cents": 899,
+          "kind": "mass",
+          "amount_base": 300.50469999999996
+        },
+        {
+          "id": "items_1704-27098439",
+          "name": "Mama O's Original Premium Kimchi",
+          "size": "16 oz",
+          "price_cents": 1459,
+          "kind": "mass",
+          "amount_base": 453.592
+        }
+      ],
       "morton": [
         {
           "id": "items_28945-3262028",
@@ -2010,36 +2912,36 @@
           "amount_base": 1.0
         },
         {
-          "id": "items_28945-16614371",
-          "name": "Green Onions (Scallions)",
-          "size": "1 bunch",
-          "price_cents": 199,
-          "kind": "unknown",
-          "amount_base": 0.0
-        },
-        {
-          "id": "items_28945-3255540",
-          "name": "Napa Cabbage",
-          "size": "1 each",
-          "price_cents": 1197,
-          "kind": "count",
-          "amount_base": 1.0
-        },
-        {
-          "id": "items_28945-16474600",
-          "name": "Kewpie Mayonnaise",
-          "size": "12 fl oz",
+          "id": "items_28945-3259862",
+          "name": "Cleveland Kitchen Garlic Sauerkraut",
+          "size": "16 oz",
           "price_cents": 799,
-          "kind": "volume",
-          "amount_base": 354.882
+          "kind": "mass",
+          "amount_base": 453.592
         },
         {
-          "id": "items_28945-3303112",
-          "name": "Sushi Chef Ginger, Pickled",
-          "size": "6 fl oz",
-          "price_cents": 539,
-          "kind": "volume",
-          "amount_base": 177.441
+          "id": "items_28945-70157",
+          "name": "Aunt Nellie's Sliced Pickled Beets",
+          "size": "16 oz",
+          "price_cents": 319,
+          "kind": "mass",
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_28945-27862608",
+          "name": "Veggie Confetti Pickled Carrots",
+          "size": "12 oz",
+          "price_cents": 699,
+          "kind": "mass",
+          "amount_base": 340.19399999999996
+        },
+        {
+          "id": "items_28945-1879476",
+          "name": "Chang Farm Bean Sprouts",
+          "size": "12 oz",
+          "price_cents": 299,
+          "kind": "mass",
+          "amount_base": 340.19399999999996
         }
       ],
       "hmart": [
@@ -2108,10 +3010,83 @@
           "amount_base": 498.95120000000003
         }
       ],
-      "duane_reade": []
+      "duane_reade": [
+        {
+          "id": "items_110705-43124",
+          "name": "Tostitos Salsa Con Queso, Medium",
+          "size": "15 oz",
+          "price_cents": 509,
+          "kind": "mass",
+          "amount_base": 425.2425
+        },
+        {
+          "id": "items_110705-34082",
+          "name": "SPAM Classic Canned Meat",
+          "size": "12 oz",
+          "price_cents": 549,
+          "kind": "mass",
+          "amount_base": 340.19399999999996
+        },
+        {
+          "id": "items_110705-17295153",
+          "name": "Heinz Sweet Relish",
+          "size": "12.7 oz",
+          "price_cents": 449,
+          "kind": "mass",
+          "amount_base": 360.03864999999996
+        },
+        {
+          "id": "items_110705-3303571",
+          "name": "OH SNAP! Hottie Bites",
+          "size": "3.25 oz",
+          "price_cents": 229,
+          "kind": "mass",
+          "amount_base": 92.135875
+        },
+        {
+          "id": "items_110705-25029831",
+          "name": "Nice! Sesame Sticks",
+          "size": "5 oz",
+          "price_cents": 299,
+          "kind": "mass",
+          "amount_base": 141.7475
+        },
+        {
+          "id": "items_110705-3303569",
+          "name": "OH SNAP! Dilly Bites",
+          "size": "3.25 oz",
+          "price_cents": 229,
+          "kind": "mass",
+          "amount_base": 92.135875
+        },
+        {
+          "id": "items_110705-16695304",
+          "name": "Maruchan Yakisoba Noodles, Teriyaki Beef",
+          "size": "4 oz",
+          "price_cents": 229,
+          "kind": "mass",
+          "amount_base": 113.398
+        },
+        {
+          "id": "items_110705-34660",
+          "name": "Maruchan Instant Lunch\u00ae Ramen Noodles Beef",
+          "size": "2.25 oz",
+          "price_cents": 129,
+          "kind": "mass",
+          "amount_base": 63.786375
+        }
+      ]
     },
     "tofu": {
       "westside": [
+        {
+          "id": "items_1704-189439",
+          "name": "WOODSTOCK Organic Extra Firm Tofu",
+          "size": "14 oz",
+          "price_cents": 449,
+          "kind": "mass",
+          "amount_base": 396.893
+        },
         {
           "id": "items_1704-29774332",
           "name": "MARIA'S HOMEMADE General Tso'S Tofu",
@@ -2119,14 +3094,6 @@
           "price_cents": 1009,
           "kind": "count",
           "amount_base": 1.0
-        },
-        {
-          "id": "items_1704-82792",
-          "name": "House Foods Organic Tofu",
-          "size": "12 oz",
-          "price_cents": 449,
-          "kind": "mass",
-          "amount_base": 340.19399999999996
         },
         {
           "id": "items_1704-29503",
@@ -2137,12 +3104,12 @@
           "amount_base": 396.893
         },
         {
-          "id": "items_1704-189439",
-          "name": "WOODSTOCK Organic Extra Firm Tofu",
-          "size": "14 oz",
+          "id": "items_1704-82792",
+          "name": "House Foods Organic Tofu",
+          "size": "12 oz",
           "price_cents": 449,
           "kind": "mass",
-          "amount_base": 396.893
+          "amount_base": 340.19399999999996
         },
         {
           "id": "items_1704-19511321",
@@ -2169,15 +3136,80 @@
           "amount_base": 453.592
         },
         {
-          "id": "items_1704-47637",
-          "name": "House Foods Tofu, Shirataki, Spaghetti",
-          "size": "8 oz",
-          "price_cents": 339,
+          "id": "items_1704-47672",
+          "name": "Nasoya Foods Tofu, Organic, Extra Firm",
+          "size": "14 oz",
+          "price_cents": 250,
           "kind": "mass",
-          "amount_base": 226.796
+          "amount_base": 396.893
         }
       ],
-      "morton": [],
+      "morton": [
+        {
+          "id": "items_28945-20706862",
+          "name": "Nasoya Tofu Baked, Teriyaki",
+          "size": "7 oz",
+          "price_cents": 599,
+          "kind": "mass",
+          "amount_base": 198.4465
+        },
+        {
+          "id": "items_28945-56193",
+          "name": "Nasoya Tofu, Organic, Silken",
+          "size": "16 oz",
+          "price_cents": 399,
+          "kind": "mass",
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_28945-82830",
+          "name": "House Foods Tofu, Organic, Cutlet",
+          "size": "6.5 oz",
+          "price_cents": 399,
+          "kind": "mass",
+          "amount_base": 184.27175
+        },
+        {
+          "id": "items_28945-82805",
+          "name": "House Foods Tofu, Organic",
+          "size": "14 oz",
+          "price_cents": 399,
+          "kind": "mass",
+          "amount_base": 396.893
+        },
+        {
+          "id": "items_28945-54513",
+          "name": "Nasoya Organic Firm Tofu",
+          "size": "14 oz",
+          "price_cents": 399,
+          "kind": "mass",
+          "amount_base": 396.893
+        },
+        {
+          "id": "items_28945-82792",
+          "name": "House Foods Organic Tofu",
+          "size": "12 oz",
+          "price_cents": 399,
+          "kind": "mass",
+          "amount_base": 340.19399999999996
+        },
+        {
+          "id": "items_28945-20707048",
+          "name": "Nasoya Sesame Ginger Tofu Baked",
+          "size": "7 oz",
+          "price_cents": 599,
+          "kind": "mass",
+          "amount_base": 198.4465
+        },
+        {
+          "id": "items_28945-1774176",
+          "name": "House Foods Tofu, Premium, Medium Firm",
+          "size": "16 oz",
+          "price_cents": 299,
+          "kind": "mass",
+          "amount_base": 453.592
+        }
+      ],
       "hmart": [
         {
           "id": "hmart-2517",
@@ -2289,14 +3321,6 @@
           "amount_base": 255.1455
         },
         {
-          "id": "items_1704-19829315",
-          "name": "Takis Blue Heat Rolled Tortilla Chips Bag",
-          "size": "9.9 oz",
-          "price_cents": 789,
-          "kind": "mass",
-          "amount_base": 280.66005
-        },
-        {
           "id": "items_1704-24048091",
           "name": "CHEESE SHOPPE No Salt Added Tortilla Chips",
           "size": "per lb",
@@ -2305,12 +3329,20 @@
           "amount_base": 0.0
         },
         {
-          "id": "items_1704-20167891",
-          "name": "BRADS RAW Blue Corn Organic Tortilla Chips",
-          "size": "1 ct",
-          "price_cents": 589,
-          "kind": "count",
-          "amount_base": 1.0
+          "id": "items_1704-27099461",
+          "name": "Late July Organic Blue Corn Tortilla Chips",
+          "size": "10.1 oz",
+          "price_cents": 619,
+          "kind": "mass",
+          "amount_base": 286.32995
+        },
+        {
+          "id": "items_1704-16651462",
+          "name": "Siete Tortilla Chips, Grain Free, Sea Salt",
+          "size": "5 oz",
+          "price_cents": 899,
+          "kind": "mass",
+          "amount_base": 141.7475
         }
       ],
       "morton": [
@@ -2323,14 +3355,6 @@
           "amount_base": 283.495
         },
         {
-          "id": "items_28945-3317609",
-          "name": "Takis Fuego Rolled Tortilla Chips Bag",
-          "size": "9.9 oz",
-          "price_cents": 399,
-          "kind": "mass",
-          "amount_base": 280.66005
-        },
-        {
           "id": "items_28945-23587561",
           "name": "Tostitos Tortilla Chips Lightly Salted",
           "size": "12 oz",
@@ -2339,12 +3363,12 @@
           "amount_base": 340.19399999999996
         },
         {
-          "id": "items_28945-25689065",
-          "name": "LATE JULY Snacks Sea Salt Tortilla Chips",
-          "size": "7.5 oz",
-          "price_cents": 699,
+          "id": "items_28945-53469853",
+          "name": "Wholesome Pantry Organic TORTILLA CHIPS",
+          "size": "9.25 oz",
+          "price_cents": 399,
           "kind": "mass",
-          "amount_base": 212.62125
+          "amount_base": 262.232875
         },
         {
           "id": "items_28945-25689055",
@@ -2355,12 +3379,12 @@
           "amount_base": 209.7863
         },
         {
-          "id": "items_28945-23587529",
-          "name": "Tostitos Tortilla Chips, Bite Size Rounds",
-          "size": "12 oz",
-          "price_cents": 549,
+          "id": "items_28945-25689065",
+          "name": "LATE JULY Snacks Sea Salt Tortilla Chips",
+          "size": "7.5 oz",
+          "price_cents": 699,
           "kind": "mass",
-          "amount_base": 340.19399999999996
+          "amount_base": 212.62125
         },
         {
           "id": "items_28945-76438",
@@ -2369,6 +3393,14 @@
           "price_cents": 549,
           "kind": "mass",
           "amount_base": 283.495
+        },
+        {
+          "id": "items_28945-23587529",
+          "name": "Tostitos Tortilla Chips, Bite Size Rounds",
+          "size": "12 oz",
+          "price_cents": 549,
+          "kind": "mass",
+          "amount_base": 340.19399999999996
         },
         {
           "id": "items_28945-16651462",
@@ -2414,20 +3446,20 @@
           "amount_base": 77.961125
         },
         {
-          "id": "items_110705-21001544",
-          "name": "Doritos Flavored Tortilla Chips, Spicy Nacho",
-          "size": "2.75 oz",
-          "price_cents": 269,
-          "kind": "mass",
-          "amount_base": 77.961125
-        },
-        {
           "id": "items_110705-23587519",
           "name": "Doritos Flavored Tortilla Chips, Spicy Nacho",
           "size": "9.25 oz",
           "price_cents": 629,
           "kind": "mass",
           "amount_base": 262.232875
+        },
+        {
+          "id": "items_110705-21001544",
+          "name": "Doritos Flavored Tortilla Chips, Spicy Nacho",
+          "size": "2.75 oz",
+          "price_cents": 269,
+          "kind": "mass",
+          "amount_base": 77.961125
         },
         {
           "id": "items_110705-20958568",
@@ -2448,10 +3480,205 @@
       ]
     },
     "white bread": {
-      "westside": [],
-      "morton": [],
+      "westside": [
+        {
+          "id": "items_1704-80920015",
+          "name": "Frontier Bakery White Bread Naan",
+          "size": "14.99 oz",
+          "price_cents": 449,
+          "kind": "mass",
+          "amount_base": 424.959005
+        },
+        {
+          "id": "items_1704-125629",
+          "name": "Sara Lee Butter, Bread, White Bread, 20 oz",
+          "size": "20 oz",
+          "price_cents": 469,
+          "kind": "mass",
+          "amount_base": 566.99
+        },
+        {
+          "id": "items_1704-34317788",
+          "name": "La Bri Osh La Briosh Crustless White Bread",
+          "size": "10.58 oz",
+          "price_cents": 899,
+          "kind": "mass",
+          "amount_base": 299.93771
+        },
+        {
+          "id": "items_1704-32633275",
+          "name": "Udi's Gluten Free Frozen White Bread Loaves",
+          "size": "18 oz",
+          "price_cents": 979,
+          "kind": "mass",
+          "amount_base": 510.291
+        },
+        {
+          "id": "items_1704-81058086",
+          "name": "Jessica\u2019s Brick Oven Bakery Tuscan White Bread",
+          "size": "1.34 oz",
+          "price_cents": 789,
+          "kind": "mass",
+          "amount_base": 37.98833
+        },
+        {
+          "id": "items_1704-298268",
+          "name": "Pepperidge Farm Farmhouse Whole Grain White Bread",
+          "size": "24 oz",
+          "price_cents": 369,
+          "kind": "mass",
+          "amount_base": 680.3879999999999
+        },
+        {
+          "id": "items_1704-17283614",
+          "name": "Dave's Killer Bread Organic Thin-Sliced White Bread",
+          "size": "20.5 oz",
+          "price_cents": 679,
+          "kind": "mass",
+          "amount_base": 581.16475
+        },
+        {
+          "id": "items_1704-28068940",
+          "name": "Arnold Superior Keto, Seeded, Bread, White Bread, 20 oz",
+          "size": "20 oz",
+          "price_cents": 839,
+          "kind": "mass",
+          "amount_base": 566.99
+        }
+      ],
+      "morton": [
+        {
+          "id": "items_28945-90562",
+          "name": "Arnold Country White Bread",
+          "size": "24 oz",
+          "price_cents": 529,
+          "kind": "mass",
+          "amount_base": 680.3879999999999
+        },
+        {
+          "id": "items_28945-68882",
+          "name": "Pepperidge Farm White Bread",
+          "size": "16 oz",
+          "price_cents": 479,
+          "kind": "mass",
+          "amount_base": 453.592
+        },
+        {
+          "id": "items_28945-141886",
+          "name": "Sch\u00e4r Artisan Baker White Bread",
+          "size": "14.1 oz",
+          "price_cents": 939,
+          "kind": "mass",
+          "amount_base": 399.72794999999996
+        },
+        {
+          "id": "items_28945-186529",
+          "name": "Arnold Brick Oven White Bread, 20 oz",
+          "size": "20 oz",
+          "price_cents": 539,
+          "kind": "mass",
+          "amount_base": 566.99
+        },
+        {
+          "id": "items_28945-125629",
+          "name": "Sara Lee Butter, Bread, White Bread, 20 oz",
+          "size": "20 oz",
+          "price_cents": 449,
+          "kind": "mass",
+          "amount_base": 566.99
+        },
+        {
+          "id": "items_28945-22162829",
+          "name": "Pepperidge Farm Farmhouse Honey White Bread",
+          "size": "22 oz",
+          "price_cents": 499,
+          "kind": "mass",
+          "amount_base": 623.689
+        },
+        {
+          "id": "items_28945-99568157",
+          "name": "Artesano Original, Bread, White Bread, 20 oz",
+          "size": "20 oz",
+          "price_cents": 479,
+          "kind": "mass",
+          "amount_base": 566.99
+        },
+        {
+          "id": "items_28945-40119",
+          "name": "Bimbo Soft, White, Bread, White Bread, 20 oz",
+          "size": "20 oz",
+          "price_cents": 319,
+          "kind": "mass",
+          "amount_base": 566.99
+        }
+      ],
       "hmart": [],
-      "duane_reade": []
+      "duane_reade": [
+        {
+          "id": "items_110705-2577418",
+          "name": "Pepsi Soda",
+          "size": "2.1 qt",
+          "price_cents": 359,
+          "kind": "volume",
+          "amount_base": 1987.3413
+        },
+        {
+          "id": "items_110705-20577633",
+          "name": "Walgreens Sweet Cream Butter",
+          "size": "16 oz",
+          "price_cents": 599,
+          "kind": "volume",
+          "amount_base": 473.176
+        },
+        {
+          "id": "items_110705-25029831",
+          "name": "Nice! Sesame Sticks",
+          "size": "5 oz",
+          "price_cents": 299,
+          "kind": "mass",
+          "amount_base": 141.7475
+        },
+        {
+          "id": "items_110705-300660",
+          "name": "Pirate's Booty Aged White Cheddar",
+          "size": "1 oz",
+          "price_cents": 179,
+          "kind": "mass",
+          "amount_base": 28.3495
+        },
+        {
+          "id": "items_110705-123290",
+          "name": "SkinnyPop Popcorn Dairy Free White Cheddar",
+          "size": "4.4 oz",
+          "price_cents": 499,
+          "kind": "mass",
+          "amount_base": 124.73780000000001
+        },
+        {
+          "id": "items_110705-69971",
+          "name": "Bumble Bee Solid White Albacore Tuna in Water",
+          "size": "5 oz",
+          "price_cents": 299,
+          "kind": "volume",
+          "amount_base": 147.8675
+        },
+        {
+          "id": "items_110705-21041990",
+          "name": "Reese's White Thins Peanut Butter Cups Share Pack",
+          "size": "7.37 oz",
+          "price_cents": 749,
+          "kind": "mass",
+          "amount_base": 208.935815
+        },
+        {
+          "id": "items_110705-20994657",
+          "name": "Ghirardelli White Chocolate Squares with Caramel Filling",
+          "size": "5 oz",
+          "price_cents": 799,
+          "kind": "mass",
+          "amount_base": 141.7475
+        }
+      ]
     }
   }
 }
